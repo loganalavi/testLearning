@@ -12,7 +12,7 @@ public class Q1 {
         Iterator<String> itr = perm.iterator();
 
         while (itr.hasNext()) {
-
+            System.out.println("salam"+itr.next());
         }
 
     }
